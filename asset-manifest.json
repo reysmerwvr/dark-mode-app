@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dark-mode-app/static/css/main.3ab73c8c.chunk.css",
+    "main.js": "/dark-mode-app/static/js/main.91b956e7.chunk.js",
+    "main.js.map": "/dark-mode-app/static/js/main.91b956e7.chunk.js.map",
+    "runtime-main.js": "/dark-mode-app/static/js/runtime-main.88f31cb4.js",
+    "runtime-main.js.map": "/dark-mode-app/static/js/runtime-main.88f31cb4.js.map",
+    "static/js/2.fa73ddae.chunk.js": "/dark-mode-app/static/js/2.fa73ddae.chunk.js",
+    "static/js/2.fa73ddae.chunk.js.map": "/dark-mode-app/static/js/2.fa73ddae.chunk.js.map",
+    "index.html": "/dark-mode-app/index.html",
+    "precache-manifest.06669d1a7b5420c6c7452c9eaa9df2e1.js": "/dark-mode-app/precache-manifest.06669d1a7b5420c6c7452c9eaa9df2e1.js",
+    "service-worker.js": "/dark-mode-app/service-worker.js",
+    "static/css/main.3ab73c8c.chunk.css.map": "/dark-mode-app/static/css/main.3ab73c8c.chunk.css.map",
+    "static/js/2.fa73ddae.chunk.js.LICENSE.txt": "/dark-mode-app/static/js/2.fa73ddae.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dark-mode-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88f31cb4.js",
+    "static/js/2.fa73ddae.chunk.js",
+    "static/css/main.3ab73c8c.chunk.css",
+    "static/js/main.91b956e7.chunk.js"
+  ]
+}
