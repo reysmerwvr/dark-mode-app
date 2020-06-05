@@ -1,68 +1,61 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Dark Mode App
 
-## Available Scripts
+Dark Mode App is based in the post of [@lucciddev](https://dev.to/lucciddev) [Getting started with React Context](https://dev.to/lucciddev/getting-started-with-react-context-mc7)
 
-In the project directory, you can run:
+## Requirements
 
-### `yarn start`
+- React >= 16.13.1
+- npm >= 6.13.4
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Version
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+1.0.0
 
-### `yarn test`
+## Installation
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Download zip file and extract it [latest release](https://github.com/reysmerwvr/dark-mode-app). Or clone the repository and cd into it.
 
-### `yarn build`
+dark-mode-app uses a number of open source projects to work properly:
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+-[React] - React
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Install the dependencies and start the server.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```sh
+cd dark-mode-app
+npm install
+```
 
-### `yarn eject`
+## Running with NPM
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Run the following command to start the HTTP Server.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```sh
+npm start # Run React App
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Demo
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+(Live Demo) [https://reysmerwvr.github.io/dark-mode-app]
 
-## Learn More
+![](light.png)
+![](dark.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Meta
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Reysmer Valle – [@ReysmerWVR]
 
-### Code Splitting
+## License
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+Set Card Game is (c) 2018 Reysmer Valle ([@ReysmerWVR]) and may be freely distributed under the [license-url](https://github.com/reysmerwvr/dark-mode-app/tree/master/LICENSE.md). See the `MIT-LICENSE` file.
 
-### Analyzing the Bundle Size
+### Todos
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+- Write tests
+- Add code comments
 
-### Making a Progressive Web App
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does 
+its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+   [React]: <https://reactjs.org//>
+   [@ReysmerWVR]: <http://twitter.com/ReysmerWVR>
