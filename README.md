@@ -47,7 +47,7 @@ Reysmer Valle – [@ReysmerWVR]
 
 ## License
 
-Set Card Game is (c) 2018 Reysmer Valle ([@ReysmerWVR]) and may be freely distributed under the [license-url](https://github.com/reysmerwvr/dark-mode-app/tree/master/LICENSE.md). See the `MIT-LICENSE` file.
+Set Card Game is (c) 2018 Reysmer Valle ([@ReysmerWVR]) and may be freely distributed under the [license-url](https://github.com/reysmerwvr/dark-mode-app/tree/master/LICENSE). See the `MIT-LICENSE` file.
 
 ### Todos
 
