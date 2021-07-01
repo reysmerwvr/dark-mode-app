@@ -16,12 +16,12 @@ const Header = ({ logo, children }) => {
 
 Header.propTypes = {
   logo: PropTypes.string,
-  children: PropTypes.objectOf(PropTypes.object),
+  children: PropTypes.arrayOf(PropTypes.object),
 };
 
 Header.defaultProps = {
   logo: 'light',
-  children: {},
+  children: [],
 };
 
 export default Header;

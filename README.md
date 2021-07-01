@@ -23,7 +23,7 @@ Install the dependencies and start the server.
 
 ```sh
 cd dark-mode-app
-npm install
+yarn
 ```
 
 ## Running with NPM
@@ -31,7 +31,7 @@ npm install
 Run the following command to start the HTTP Server.
 
 ```sh
-npm start # Run React App
+yarn start # Run React App
 ```
 
 ## Demo
@@ -49,7 +49,7 @@ Reysmer Valle – [@ReysmerWVR]
 
 Dark Mode App is (c) 2020 Reysmer Valle ([@ReysmerWVR]) and may be freely distributed under the [license-url](https://github.com/reysmerwvr/dark-mode-app/tree/master/LICENSE). See the `MIT-LICENSE` file.
 
-### Todos
+### TODO
 
 - Write tests
 - Add code comments
