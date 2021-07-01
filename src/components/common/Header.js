@@ -16,7 +16,7 @@ const Header = ({ logo, children }) => {
 
 Header.propTypes = {
   logo: PropTypes.string,
-  children: PropTypes.object,
+  children: PropTypes.objectOf(PropTypes.object),
 };
 
 Header.defaultProps = {
