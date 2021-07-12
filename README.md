@@ -45,6 +45,11 @@ yarn start # Run React App
 
 Reysmer Valle – [@ReysmerWVR]
 
+## Docker, Travis
+
+(CI Vars)[https://facebook.github.io/create-react-app/docs/running-tests#linux-macos-bash]
+(Docker Env Vars)[https://docs.docker.com/engine/reference/run/#env-environment-variables]
+
 ## License
 
 Dark Mode App is (c) 2020 Reysmer Valle ([@ReysmerWVR]) and may be freely distributed under the [license-url](https://github.com/reysmerwvr/dark-mode-app/tree/master/LICENSE). See the `MIT-LICENSE` file.

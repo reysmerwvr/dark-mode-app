@@ -1,0 +1,11 @@
+sudo: required
+services:
+  - docker
+
+before_install:
+  - docker build -t reysmerwvr/dark-mode-app -f Dockerfile.dev .
+
+script:
+  - docker run -e CI=true reysmerwvr/dark-mode-app npm run test
+
+language: generic
