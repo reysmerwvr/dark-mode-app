@@ -9,3 +9,13 @@ script:
   - docker run -e CI=true reysmerwvr/dark-mode-app npm run test
 
 language: generic
+
+deploy:
+  provider: elasticbeanstalk
+  region: "us-east-1"
+  name: "dark-mode-app"
+  env: "Darkmodeapp-env"
+  bucket_name: "elasticbeanstalk-us-east-1-403679411274"
+  bucket_path: "dark-mode-app"
+  on:
+    branch: master
